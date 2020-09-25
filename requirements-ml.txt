@@ -1,0 +1,4 @@
+# Include all requirements to run the bot.
+-r requirements-dev.txt
+
+tensorflow-cpu==2.3.1
